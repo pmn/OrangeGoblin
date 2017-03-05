@@ -1,0 +1,27 @@
+{
+  "name": "orangegoblin",
+  "version": "0.0.1",
+  "description": "This project is tremendous. Believe me. ",
+  "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmn/OrangeGoblin.git"
+  },
+  "keywords": [
+    "trolling",
+    "twitter"
+  ],
+  "author": "Paul Nakata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmn/OrangeGoblin/issues"
+  },
+  "homepage": "https://github.com/pmn/OrangeGoblin#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
