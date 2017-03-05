@@ -1,6 +1,8 @@
 # OrangeGoblin
 This repo is the best. Believe me. 
 
+Auto-responds to any @realDonaldTrump tweet that mentions Obama with a "Nope", "lol", or "u mad?" :joy:
+
 ### Instructions
 This requires some envinronment variables be set: 
 
